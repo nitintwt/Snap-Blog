@@ -27,7 +27,6 @@ export class Service{
          )
     } catch (error) {
       throw error 
-      
     }
 
   }
